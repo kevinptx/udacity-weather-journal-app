@@ -1,0 +1,18 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "This is the package.json file of the Weather Joural App, the third project of the Udacity Frontend Developer Nanodegree",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kevin Peery",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node": "^19.8.1"
+  }
+}
